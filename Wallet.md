@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: About
+title: Wallet
 ---
 
 # About the 11ty **Boilerplate**

@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: About
+title: Water
 ---
 
 # About the 11ty **Boilerplate**
